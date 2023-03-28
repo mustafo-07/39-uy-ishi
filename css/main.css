@@ -1,0 +1,12 @@
+.card-body {
+    margin: 10px 0;
+    height: 300px;
+    border-radius: 50%;
+    width: 100%;
+    background-color: brown;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
